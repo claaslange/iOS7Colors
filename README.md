@@ -1,0 +1,23 @@
+# iOS7Colors
+
+iOS7Colors is a simple category on UIColor which provides you some of the standard colors used throughout iOS 7.
+
+## Usage
+
+Usage is really simple Just include `UIColor-iOS7Colors.h` & `UIColor-iOS7Colors.m` in your project and import them whereever you need the colors.
+
+    #import "UIColor-iOS7Colors.h"
+
+    UILabel *label = [UILabel alloc] initWithFrame:CGRectZero];
+
+    label.textColor = [UIColor iOS7redColor];
+
+The simplest way is to use Cocoapods for integration.
+
+## Credits
+
+The color values are taken from [Louie Mantia's](http://mantia.me) [iOS 7 Color Swatches](http://dribbble.com/shots/1186156-iOS-7-Color-Swatches)
+
+## License
+
+iOS7Colors is licensed under the MIT-License
