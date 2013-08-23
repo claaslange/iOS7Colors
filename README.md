@@ -12,7 +12,7 @@ Usage is really simple Just include `UIColor-iOS7Colors.h` & `UIColor-iOS7Colors
 
     label.textColor = [UIColor iOS7redColor];
 
-The simplest way is to use Cocoapods for integration.
+![Screenshot](https://raw.github.com/claaslange/iOS7Colors/master/screenshot.png)
 
 ## Credits
 
