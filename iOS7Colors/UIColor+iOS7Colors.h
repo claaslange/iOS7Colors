@@ -19,7 +19,7 @@
 + (instancetype)iOS7purpleColor;
 + (instancetype)iOS7pinkColor;
 + (instancetype)iOS7darkGrayColor;
-+ (instancetype)ios7lightGrayColor;
++ (instancetype)iOS7lightGrayColor;
 
 
 
