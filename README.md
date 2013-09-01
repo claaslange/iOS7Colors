@@ -4,6 +4,10 @@ iOS7Colors is a simple category on UIColor which provides you some of the standa
 
 ## Usage
 
+The easiest way to integrate iOS7Colors is using CocoaPods. Just add this to your Podfile:
+
+    pod 'iOS7Colors', '~> 2.0.0'
+
 Usage is really simple Just include `UIColor+iOS7Colors.h` & `UIColor+iOS7Colors.m` in your project and import them whereever you need the colors.
 
     #import "UIColor-iOS7Colors.h"
