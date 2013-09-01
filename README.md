@@ -4,7 +4,7 @@ iOS7Colors is a simple category on UIColor which provides you some of the standa
 
 ## Usage
 
-Usage is really simple Just include `UIColor-iOS7Colors.h` & `UIColor-iOS7Colors.m` in your project and import them whereever you need the colors.
+Usage is really simple Just include `UIColor+iOS7Colors.h` & `UIColor+iOS7Colors.m` in your project and import them whereever you need the colors.
 
     #import "UIColor-iOS7Colors.h"
 
