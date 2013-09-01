@@ -53,7 +53,7 @@
     return [UIColor colorWithRed:0.56f green:0.56f blue:0.58f alpha:1.0f];
 }
 
-+ (instancetype)ios7lightGrayColor;
++ (instancetype)iOS7lightGrayColor;
 {
     return [UIColor colorWithRed:0.78f green:0.78f blue:0.8f alpha:1.0f];
 }
