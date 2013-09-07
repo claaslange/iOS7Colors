@@ -8,9 +8,9 @@ The easiest way to integrate iOS7Colors is using CocoaPods. Just add this to you
 
     pod 'iOS7Colors', '~> 2.0.0'
 
-Usage is really simple Just include `UIColor+iOS7Colors.h` & `UIColor+iOS7Colors.m` in your project and import them whereever you need the colors.
+Usage is really simple. Just include `UIColor+iOS7Colors.h` & `UIColor+iOS7Colors.m` in your project if you're not using cocoapods and import the header file you need the colors.
 
-    #import "UIColor-iOS7Colors.h"
+    #import "UIColor+iOS7Colors.h"
 
     UILabel *label = [UILabel alloc] initWithFrame:CGRectZero];
 
