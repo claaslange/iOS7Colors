@@ -23,34 +23,34 @@
 + (instancetype)iOS7lightGrayColor;
 
 // Gradient Colors
-+ (instancetype)iOS7redGradientBottomColor;
-+ (instancetype)iOS7redGradientTopColor;
++ (instancetype)iOS7redGradientStartColor;
++ (instancetype)iOS7redGradientEndColor;
 
-+ (instancetype)iOS7orangeGradientBottomColor;
-+ (instancetype)iOS7orangeGradientTopColor;
++ (instancetype)iOS7orangeGradientStartColor;
++ (instancetype)iOS7orangeGradientEndColor;
 
-+ (instancetype)iOS7yellowGradientBottomColor;
-+ (instancetype)iOS7yellowGradientTopColor;
++ (instancetype)iOS7yellowGradientStartColor;
++ (instancetype)iOS7yellowGradientEndColor;
 
-+ (instancetype)iOS7greenGradientBottomColor;
-+ (instancetype)iOS7greenGradientTopColor;
++ (instancetype)iOS7greenGradientStartColor;
++ (instancetype)iOS7greenGradientEndColor;
 
-+ (instancetype)iOS7tealGradientBottomColor;
-+ (instancetype)iOS7tealGradientTopColor;
++ (instancetype)iOS7tealGradientStartColor;
++ (instancetype)iOS7tealGradientEndColor;
 
-+ (instancetype)iOS7blueGradientBottomColor;
-+ (instancetype)iOS7blueGradientTopColor;
++ (instancetype)iOS7blueGradientStartColor;
++ (instancetype)iOS7blueGradientEndColor;
 
-+ (instancetype)iOS7violetGradientBottomColor;
-+ (instancetype)iOS7violetGradientTopColor;
++ (instancetype)iOS7violetGradientStartColor;
++ (instancetype)iOS7violetGradientEndColor;
 
-+ (instancetype)iOS7magentaGradientBottomColor;
-+ (instancetype)iOS7magentaGradientTopColor;
++ (instancetype)iOS7magentaGradientStartColor;
++ (instancetype)iOS7magentaGradientEndColor;
 
-+ (instancetype)iOS7blackGradientBottomColor;
-+ (instancetype)iOS7blackGradientTopColor;
++ (instancetype)iOS7blackGradientStartColor;
++ (instancetype)iOS7blackGradientEndColor;
 
-+ (instancetype)iOS7silverGradientBottomColor;
-+ (instancetype)iOS7silverGradientTopColor;
++ (instancetype)iOS7silverGradientStartColor;
++ (instancetype)iOS7silverGradientEndColor;
 
 @end
